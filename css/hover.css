@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.hover{
+    width: 50px;
+    height: 40px;
+    background-color: rgb(214, 80, 100);
+    margin-top: 16px;
+    border-radius: 0 15px 15px 0;
+}
+.hover:hover{
+    width: 100px;
+    height: 40px;
+    background-color: rgb(214, 80, 100);
+}
+.fab{
+    padding-left: 26px;
+    padding-top: 10px;
+    font-weight: 400;
+}
+.fab:hover{
+    padding-left:70px ;
+}
